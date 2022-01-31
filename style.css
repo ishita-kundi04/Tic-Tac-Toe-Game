@@ -124,4 +124,8 @@ nav ul{
         grid-template-rows: repeat(3, 20vw);
         font-family: 'Roboto', sans-serif;
     }
+    
+    .line {
+        visibility: hidden;
+    }
 }
